@@ -18,18 +18,15 @@ a {
 
 p {
   text-align: center;
+  font-family: verdana, sans-serif;
+  font-size: 21px;
+  color: gray;
 }
 
 h2 {
   font-family: verdana, sans-serif;
   font-weight: 300;
   font-size: 42px;
-}
-
-h3 {
-  font-family: verdana, sans-serif;
-  font-size: 21px;
-  color: gray;
 }
 
 .copyright {
